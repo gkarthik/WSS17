@@ -899,7 +899,7 @@ kq0=
     BoxForm`ImageTag["Byte", ColorSpace -> "RGB", Interleaving -> True],
     Selectable->False],
    DefaultBaseStyle->"ImageGraphics",
-   ImageSize->{452.93828125000005`, Automatic},
+   ImageSize->{407.06328125000005`, Automatic},
    ImageSizeRaw->{571, 391},
    PlotRange->{{0, 571}, {0, 391}}]],
   CellChangeTimes->{3.708121102487195*^9},
@@ -9241,16 +9241,21 @@ adobe.com/xap/1.0/> <tiff:ResolutionUnit>2</tiff:ResolutionUnit> \
 (* Internal cache information *)
 (*CellTagsOutline
 CellTagsIndex->{
- "Affiliation"->{
-  Cell[2276, 53, 491, 7, 
-  28, "TemplateTagItem", "ExpressionUUID" -> "f040e7eb-bcb1-4d97-8beb-
-   ea56f0aff682",
-   CellTags->"Affiliation"]},
  "Author"->{
   Cell[1284, 35, 479, 7, 
   28, "TemplateTagItem", "ExpressionUUID" -> "0f6ba866-
    c3d0-4311-9b18-4f6e1b8657c7",
    CellTags->"Author"]},
+ "Mentor"->{
+  Cell[1766, 44, 507, 7, 
+  28, "TemplateTagItem", "ExpressionUUID" -> "0e67a180-
+   ad7d-4310-9cf8-641a37487105",
+   CellTags->"Mentor"]},
+ "Affiliation"->{
+  Cell[2276, 53, 491, 7, 
+  28, "TemplateTagItem", "ExpressionUUID" -> "f040e7eb-bcb1-4d97-8beb-
+   ea56f0aff682",
+   CellTags->"Affiliation"]},
  "DataSources"->{
   Cell[172645, 3868, 257, 4, 
   57, "TemplateSubsection", "ExpressionUUID" -> "595aec4a-a293-426a-
@@ -9261,6 +9266,11 @@ CellTagsIndex->{
   57, "TemplateSubsection", "ExpressionUUID" -> "e5647c6a-
    cb6b-4235-8887-8cfbb24ef769",
    CellTags->"FutureDirections"]},
+ "References"->{
+  Cell[173184, 3880, 313, 5, 
+  57, "TemplateSubsection", "ExpressionUUID" -> "f66f7ca2-dcb9-4c06-9d0a-
+   f2cc48d9fd79",
+   CellTags->"References"]},
  "Keywords"->{
   Cell[173522, 3889, 182, 2, 
   57, "TemplateSubsection", "ExpressionUUID" -> "0a9d4fd1-d336-4f32-
@@ -9270,29 +9280,19 @@ CellTagsIndex->{
   Cell[174705, 3926, 232, 7, 
   28, "LastModified", "ExpressionUUID" -> "ee098a41-
    a1ef-4d43-9e0e-16def07394e5",
-   CellTags->"LastModifiedDate"]},
- "Mentor"->{
-  Cell[1766, 44, 507, 7, 
-  28, "TemplateTagItem", "ExpressionUUID" -> "0e67a180-
-   ad7d-4310-9cf8-641a37487105",
-   CellTags->"Mentor"]},
- "References"->{
-  Cell[173184, 3880, 313, 5, 
-  57, "TemplateSubsection", "ExpressionUUID" -> "f66f7ca2-dcb9-4c06-9d0a-
-   f2cc48d9fd79",
-   CellTags->"References"]}
+   CellTags->"LastModifiedDate"]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"Affiliation", 487168, 9243},
- {"Author", 487326, 9248},
- {"DataSources", 487484, 9253},
- {"FutureDirections", 487659, 9258},
- {"Keywords", 487831, 9263},
- {"LastModifiedDate", 488003, 9268},
- {"Mentor", 488167, 9273},
- {"References", 488324, 9278}
+ {"Author", 487163, 9243},
+ {"Mentor", 487316, 9248},
+ {"Affiliation", 487474, 9253},
+ {"DataSources", 487637, 9258},
+ {"FutureDirections", 487812, 9263},
+ {"References", 487986, 9268},
+ {"Keywords", 488152, 9273},
+ {"LastModifiedDate", 488324, 9278}
  }
 *)
 (*NotebookFileOutline
@@ -9311,12 +9311,12 @@ Cell[2276, 53, 491, 7, 28, "TemplateTagItem", "ExpressionUUID" -> \
 "f040e7eb-bcb1-4d97-8beb-ea56f0aff682",
  CellTags->"Affiliation"]
 }, Open  ]],
-Cell[2782, 63, 94, 0, 1, "TemplateSubsectionDelimiter", "ExpressionUUID" -> \
+Cell[2782, 63, 94, 0, 4, "TemplateSubsectionDelimiter", "ExpressionUUID" -> \
 "db3c9b28-7203-4de6-8fdc-71adf79829c2"],
 Cell[CellGroupData[{
 Cell[2901, 67, 231, 4, 68, "TemplateSection", "ExpressionUUID" -> \
 "ba8fb57a-50ef-4f25-afde-a880a5da3c9b"],
-Cell[3135, 73, 51378, 850, 324, "TemplateFigure", "ExpressionUUID" -> \
+Cell[3135, 73, 51378, 850, 293, "TemplateFigure", "ExpressionUUID" -> \
 "5746344c-18f1-4d58-883f-2ef36e206de1"]
 }, Open  ]],
 Cell[CellGroupData[{
